@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "codigo": "EC",
+        "nombre": "Ecuador"
+    },
+    {
+        "id": 2,
+        "codigo": "CO",
+        "nombre": "Colombia"
+    }
+]

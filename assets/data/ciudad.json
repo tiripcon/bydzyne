@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "codigo": "UIO",
+        "nombre": "Quito"
+    },
+    {
+        "id": 2,
+        "codigo": "GYE",
+        "nombre": "GUAYAQUIL"
+    }
+]
